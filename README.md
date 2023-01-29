@@ -1,4 +1,4 @@
-# Physiology-based_Model
+# Can a Computer Tell Differences between Vibrations?: Physiology-Based Computational Model for Perceptual Dissimilarity Prediction
 
 
 ## [File] PM_tester.exe
