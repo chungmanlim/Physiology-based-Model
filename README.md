@@ -1,5 +1,7 @@
 # Can a Computer Tell Differences between Vibrations?: Physiology-Based Computational Model for Perceptual Dissimilarity Prediction
 
+## Paper
+https://dl.acm.org/doi/abs/10.1145/3544548.3580686
 
 ## [File] PM_tester.exe
 PM execution file. You should add your vibration set with '.txt' format into "./Vibration" before running this file. As a result of the running, a predicted perceptual dissimilarity matrix, 'PM_Prediction.txt', will be generated.
