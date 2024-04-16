@@ -15,6 +15,7 @@ A vibration set for the test. For testing, we provide 8 vibration patterns.
 3. All vibrations' durations in the vibration pattern set must be the same. If they are different, please apply zero-padding to shorter patterns.
 
 ## Citation
+```
 @inproceedings{lim2023can,
   title={Can a computer tell differences between vibrations?: Physiology-based computational model for perceptual dissimilarity prediction},
   author={Lim, Chungman and Park, Gunhyuk},
@@ -22,3 +23,4 @@ A vibration set for the test. For testing, we provide 8 vibration patterns.
   pages={1--15},
   year={2023}
 }
+```
